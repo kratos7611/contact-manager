@@ -1,0 +1,80 @@
+{
+  "contacts": [
+    {
+      "name": "Anup Niraula",
+      "company": "Ayaansh Tech",
+      "email": "anup@gmail.com",
+      "title": "Back-end developer",
+      "mobile": "99999",
+      "photo": "https://www.freeiconspng.com/thumbs/contact-icon-png/contact-icon-png-1.png",
+      "groupId": "4",
+      "id": "vinZI7U"
+    },
+    {
+      "name": "Nischal",
+      "company": "Ayaansh Tech",
+      "email": "nischal.b.adhikari@gmail.com",
+      "title": "Front End Developer",
+      "mobile": "1212121",
+      "photo": "https://www.vhv.rs/dpng/d/595-5958114_tim-churchill-clipart-png-download-black-silhouette-head.png",
+      "groupId": "3",
+      "id": "B9pqeaz"
+    },
+    {
+      "name": "Zayn Malik",
+      "company": "Music",
+      "email": "zayn@gmail.com",
+      "title": "Singer",
+      "mobile": "1212121",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Zayn_Wiki_%28cropped%29.jpg/800px-Zayn_Wiki_%28cropped%29.jpg",
+      "groupId": "6",
+      "id": "jtLzGlM"
+    },
+    {
+      "name": "Rihana",
+      "company": "Music",
+      "email": "rihana@gmail.com",
+      "title": "Sinegr",
+      "mobile": "91919119",
+      "photo": "https://static.independent.co.uk/2022/08/17/15/GettyImages-1370076628.jpg?quality=75&width=982&height=726&auto=webp",
+      "groupId": "2",
+      "id": "3WW7kZH"
+    },
+    {
+      "name": "Vladamir Putin",
+      "company": "Russia",
+      "email": "putin@gmail.com",
+      "title": "President",
+      "mobile": "91129283912",
+      "photo": "https://c.ndtvimg.com/2022-04/ksramj9_vladimir-putin-bloomberg_625x300_21_April_22.jpg",
+      "groupId": "3",
+      "id": "dc4n5c6"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
